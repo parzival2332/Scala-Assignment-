@@ -15,5 +15,7 @@ object scala
      println(n % j);
      println(m / j * j);
      println(f + 10 * 5 + g);
+     i += 1;
+     println(i * n);
   }
 }
